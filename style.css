@@ -1,0 +1,44 @@
+body{
+color: black;
+background-color: #eee;
+}
+
+footer{
+  background-color: red;
+}
+
+
+
+.leftdiv{
+  float: left;
+  width: 25%;
+  background-color: lightblue;
+  border: 1px outset red;
+  height: 100%;
+  
+}
+
+.maindiv{
+  float: right;
+  width: 74%;
+  background-color: transparent;
+  background-color: blue;
+  border: 1px outset red;
+  height: 100%;
+}
+
+
+.footerdiv{
+  background-color: red;
+  text-align: center;
+}
+
+
+
+
+
+#center{
+  text-align: center;
+  border: 1px outset red;
+}
+
